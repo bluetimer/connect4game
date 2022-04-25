@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cointainer {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f7e9cd;
+}
+#square {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+#whitecircle {
+  border-radius: 90px;
+  width: 95px;
+  height: 95px;
+  background-color: white;
+}
